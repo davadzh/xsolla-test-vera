@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/xsolla-test-vera/static/css/main.8266c4ee.css",
-    "main.js": "/xsolla-test-vera/static/js/main.e60b26a2.js",
+    "main.js": "/xsolla-test-vera/static/js/main.729171c5.js",
     "static/media/xsolla-pattern.svg": "/xsolla-test-vera/static/media/xsolla-pattern.f4c7f84c2ec9cb8dd314.svg",
     "index.html": "/xsolla-test-vera/index.html",
     "static/media/alert--red-transparent.svg": "/xsolla-test-vera/static/media/alert--red-transparent.1bbb90a2c17347372700.svg",
@@ -18,10 +18,10 @@
     "static/media/checked.svg": "/xsolla-test-vera/static/media/checked.c163525ba449901e9c28.svg",
     "static/media/separate-list.svg": "/xsolla-test-vera/static/media/separate-list.7ada36e4516a9120e418.svg",
     "main.8266c4ee.css.map": "/xsolla-test-vera/static/css/main.8266c4ee.css.map",
-    "main.e60b26a2.js.map": "/xsolla-test-vera/static/js/main.e60b26a2.js.map"
+    "main.729171c5.js.map": "/xsolla-test-vera/static/js/main.729171c5.js.map"
   },
   "entrypoints": [
     "static/css/main.8266c4ee.css",
-    "static/js/main.e60b26a2.js"
+    "static/js/main.729171c5.js"
   ]
 }
