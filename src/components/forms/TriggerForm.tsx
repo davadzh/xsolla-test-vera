@@ -4,6 +4,7 @@ import React, {ChangeEvent, useState} from 'react';
 import {FormRow} from "../CustomUI/FormRow";
 import {FieldWrapper} from "../CustomUI/FieldWrapper";
 
+
 export const TriggerForm = () => {
   const [cronValue, setCronValue] = useState<string>('');
   const [timeZoneValue, setTimeZoneValue] = useState<string>('');
@@ -35,8 +36,6 @@ export const TriggerForm = () => {
                                    placeholder={'NOT REALIZED'}
                     />}
       />
-
-
     </FormRow>
   );
 };

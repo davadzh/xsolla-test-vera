@@ -11,6 +11,7 @@ import {
 const generateTemplate = (templateObject: ILetterValues | IMessageValues | ITicketValues, type: ActivityType): string => {
   let template: any = {};
 
+  //TODO refactor logic
   switch (type) {
     case 'letter':
       templateObject = templateObject as ILetterValues;
@@ -25,7 +26,7 @@ const generateTemplate = (templateObject: ILetterValues | IMessageValues | ITick
             name: '',
             substitutions: {
               key: 'body',
-              value: templateObject.to,
+              value: templateObject.text,
             }
           },
           from: {

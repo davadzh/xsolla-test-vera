@@ -56,7 +56,8 @@ export const API = {
 
   sendTrigger: (activites_id: number) => {
     const reqData = {
-      activites_id: activites_id
+      activites_id: activites_id,
+      value: "* 12 * * 1-5 Asia/Yekaterinburg" //TODO values from trigger form
     }
 
     const mockedVariables = {
