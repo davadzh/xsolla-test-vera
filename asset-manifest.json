@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/xsolla-test-vera/static/css/main.8266c4ee.css",
+    "main.js": "/xsolla-test-vera/static/js/main.e60b26a2.js",
+    "static/media/xsolla-pattern.svg": "/xsolla-test-vera/static/media/xsolla-pattern.f4c7f84c2ec9cb8dd314.svg",
+    "index.html": "/xsolla-test-vera/index.html",
+    "static/media/alert--red-transparent.svg": "/xsolla-test-vera/static/media/alert--red-transparent.1bbb90a2c17347372700.svg",
+    "static/media/alert--transparent.svg": "/xsolla-test-vera/static/media/alert--transparent.98e48c3a8b2fe0e216f7.svg",
+    "static/media/quest--blue.svg": "/xsolla-test-vera/static/media/quest--blue.88b69a40a42a8c180daa.svg",
+    "static/media/quest.svg": "/xsolla-test-vera/static/media/quest.e104a9a107285f855105.svg",
+    "static/media/checkmark-in-circle-transparent.svg": "/xsolla-test-vera/static/media/checkmark-in-circle-transparent.456b1c652f8f816c0d1b.svg",
+    "static/media/close.svg": "/xsolla-test-vera/static/media/close.a8e8e12acdb27548db71.svg",
+    "static/media/loader--border.svg": "/xsolla-test-vera/static/media/loader--border.8da9719e7caddd5e36a0.svg",
+    "static/media/loader--green.svg": "/xsolla-test-vera/static/media/loader--green.2ce6bee97da42925c756.svg",
+    "static/media/alert--orange-transparent.svg": "/xsolla-test-vera/static/media/alert--orange-transparent.12831aaa314644b9b992.svg",
+    "static/media/checked--grey.svg": "/xsolla-test-vera/static/media/checked--grey.2ef5d579d95b23e34a3d.svg",
+    "static/media/checked--red.svg": "/xsolla-test-vera/static/media/checked--red.17ede6b471d0999a261b.svg",
+    "static/media/checked.svg": "/xsolla-test-vera/static/media/checked.c163525ba449901e9c28.svg",
+    "static/media/separate-list.svg": "/xsolla-test-vera/static/media/separate-list.7ada36e4516a9120e418.svg",
+    "main.8266c4ee.css.map": "/xsolla-test-vera/static/css/main.8266c4ee.css.map",
+    "main.e60b26a2.js.map": "/xsolla-test-vera/static/js/main.e60b26a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8266c4ee.css",
+    "static/js/main.e60b26a2.js"
+  ]
+}
