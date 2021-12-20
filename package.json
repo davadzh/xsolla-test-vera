@@ -1,14 +1,15 @@
 {
+  "homepage": "https://davadzh.github.io/xsolla-test-vera",
   "name": "xsolla-test-vera",
   "version": "0.1.0",
-  "homepage": "https://davadzh.github.io/xsolla-test-vera",
-  "private": false,
+  "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.7.1",
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
     "axios": "^0.24.0",
+    "gh-pages": "^3.2.3",
     "node-sass": "^7.0.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
@@ -51,7 +52,6 @@
   "devDependencies": {
     "@types/react": "^17.0.37",
     "@types/react-dom": "^17.0.11",
-    "@types/styled-components": "^5.1.18",
-    "gh-pages": "^3.2.3"
+    "@types/styled-components": "^5.1.18"
   }
 }
